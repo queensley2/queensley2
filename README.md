@@ -35,7 +35,7 @@ I'm a passionate **Frontend Developer** crafting beautiful and user-friendly web
 
 ## 🌐 Website
 
-Check out my portfolio: [https://yourwebsite.com]([https://yourwebsite.com](https://queensley-5qi7.vercel.app/))
+Check out my portfolio: [queensley-5qi7.vercel.app](https://queensley-5qi7.vercel.app/)
 
 ---
 
